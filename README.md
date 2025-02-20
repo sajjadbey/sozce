@@ -6,10 +6,10 @@ To install dependencies:
 bun install
 ```
 
+add your Database information to a ```.env``` file 
+
 To run:
 
 ```bash
-bun run index.js
+bun run app.js
 ```
-
-This project was created using `bun init` in bun v1.2.2. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
